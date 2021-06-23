@@ -18,7 +18,7 @@ export function Home() {
                         Crie sua sala com o Google
                     </button>
                     <div>
-                        ou entre em uma sala
+                        ou entre em uma salaaaaa
                     </div>
                     <form>
                         <input
